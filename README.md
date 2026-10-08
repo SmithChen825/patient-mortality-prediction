@@ -3,7 +3,7 @@
 An individual University of Melbourne coursework project (COMP90089), September–November 2025, comparing linear-activation and ReLU multilayer perceptrons for patients with severe hypotension.
 
 ## Contribution
-Wenrui Chen completed this individual project, including data preparation, model training and testing, data analysis and visualisation.
+I completed this individual project, including data preparation, model training and testing, data analysis and visualisation.
 
 ## Workflow
 - Explore age, gender, APS III and Charlson comorbidity index distributions.
