@@ -1,9 +1,9 @@
 # In-Hospital Mortality Prediction
 
-A four-person University of Melbourne coursework project (COMP90089), September–November 2025, comparing linear-activation and ReLU multilayer perceptrons for patients with severe hypotension.
+An individual University of Melbourne coursework project (COMP90089), September–November 2025, comparing linear-activation and ReLU multilayer perceptrons for patients with severe hypotension.
 
 ## Contribution
-Wenrui Chen was responsible for model training and testing. All four team members participated in data analysis and visualisation. This repository presents the team workflow; it does not claim sole authorship of the project.
+Wenrui Chen completed this individual project, including data preparation, model training and testing, data analysis and visualisation.
 
 ## Workflow
 - Explore age, gender, APS III and Charlson comorbidity index distributions.
